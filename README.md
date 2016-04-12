@@ -32,7 +32,7 @@ Hint:
 
 -The main problem & solution is in the [Improvement](./Documents/Improvement.pptx),it also includes the latest version of System Architecture of our application.
 
--All class diagrams in the [Design](./Design/) should be open by "software ideas modeler".(Download link is here: [Software Ideas Modeler](https://www.softwareideas.net/)
+-All class diagrams in the [Design](./Design/) should be open by "software ideas modeler".(Download link is here: [Software Ideas Modeler](https://www.softwareideas.net/))
 
 -There are some technial surveys and architecture designs in the "Documents".
 
