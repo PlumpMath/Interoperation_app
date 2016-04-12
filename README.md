@@ -25,36 +25,14 @@ Appliance:
 ----
 Internet of Things
 
-Role:
-----
--Project Manager
-
--Architect
-
--Developer
-
-
-Work:
------
--Survey the interoperability issue in Internet of Things
-
--Extract the requirements of interoperability issue in Internet of Things.
-
--Design the System Architecture of Interoperation Application.(see in "Documents/Improvement" p5)
-
--Design the Class Diagram of Interoperation Application.(see in "Design")
-
--Implementation of Interoperation Application.(see in "InteroperationApp")
-
-
 
 Hint:
 -----
--You can see the brief requirements in the "Documents/Evolution of InteroperationApp".It includes the evolution of requirements, design, and some problem issues. 
+-You can see the brief requirements in the [Evolution of InteroperationApp](./Documents/Evolution of InteroperationApp.pptx).It includes the evolution of requirements, design, and some problem issues. 
 
--The main problem & solution is in the "Documents/Improvement",it also includes the latest version of System Architecture of our application.
+-The main problem & solution is in the [Improvement](./Documents/Improvement.pptx),it also includes the latest version of System Architecture of our application.
 
--All class diagrams in the "Design" document should be open by "software ideas modeler".(Download link is here: [Google](https://www.softwareideas.net/)
+-All class diagrams in the [Design](./Design/) should be open by "software ideas modeler".(Download link is here: [Software Ideas Modeler](https://www.softwareideas.net/)
 
 -There are some technial surveys and architecture designs in the "Documents".
 
