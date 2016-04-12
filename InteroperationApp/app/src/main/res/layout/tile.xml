@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:id="@+id/tile_cell"
+ android:layout_width="180dip"
+ android:layout_height="180dip"
+ android:layout_marginLeft="2dip">
+     <RelativeLayout
+     android:id="@+id/tile_content"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"/>
+	 <TextView
+	 android:id="@+id/tile_title"
+	 android:layout_width="fill_parent"
+	 android:layout_height="wrap_content"
+	 android:textSize="22dip"
+     android:background="#97000000"
+     android:textColor="#FFFFFFFF"
+     android:gravity="center"
+     android:ellipsize="end" 
+     android:lines="1"
+     android:scrollHorizontally="true"
+     android:singleLine="true"
+     android:layout_alignParentBottom="true"/>
+	 <ntu.selab.iot.interoperationapp.tile.TileSelect
+	 android:id="@+id/tile_select"
+	 android:layout_width="fill_parent"
+	 android:layout_height="fill_parent"
+	 android:visibility="gone"/>
+</RelativeLayout>

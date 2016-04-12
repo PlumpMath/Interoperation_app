@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="A_Gallery">
+        <attr name="android:galleryItemBackground" />
+    </declare-styleable>
+    <declare-styleable name="ExpandablePanel">
+    	<attr name="handle" format="reference" />
+        <attr name="content" format="reference" />
+        <attr name="collapsedHeight" format="dimension"/>
+        <attr name="animationDuration" format="integer"/>
+  </declare-styleable>
+    <declare-styleable name="TileView">
+        <attr name="tileTitleSize" format="integer"/>
+        <attr name="adjustTitleSize" format="boolean"/>
+        <attr name="showTitle" format="boolean"/>
+  </declare-styleable>
+  <declare-styleable name="SensorGallery">
+        <attr name="galleryTitle" format="string"/>
+        <attr name="galleryShowTab" format="boolean"/>
+        <attr name="galleryAdjust" format="boolean"/>
+  </declare-styleable>
+</resources>

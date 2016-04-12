@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="#FFFFFFFF" 
+    
+    tools:context="ntu.selab.iot.interoperationapp.activity.MainActivity" >
+<!--  android:background="#d3d3d3"
+	  android:background="#FFFFFFFF" 
+	  android:background="#FF000000"-->
+  
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+        android:enabled="false" >
+        
+        <!--      
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin" -->
+ 
+        <LinearLayout
+        android:id="@+id/gateway_area"  
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical"
+		    
+        >
+           
+      
+           
+        </LinearLayout>
+        
+        <!--  android:id="@+id/main_content"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"-->
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/main_progress"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#d3000000"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ProgressBar
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:indeterminate="true" />
+
+        <TextView
+            android:id="@+id/main_Scanning"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/scanning_string"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Interoperation_App</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="scanning_string">Scanning sensors...</string>
+    <string name="title_activity_detection">DetectionActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_videoTest">VideoTestActivity</string>
+    <string name="title_activity_smart_plug">SmartPlugActivity</string>
+    <string name="title_activity_zy_xelcam">ZyXELCamActivity</string>
+
+</resources>
