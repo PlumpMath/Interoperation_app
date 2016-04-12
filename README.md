@@ -1,8 +1,8 @@
 Interoperation Application
-------------------------------------------------------------------------------------	
+
 Description:
 Receive and display the information collected by heterogeneous devices through private gateways and manipulate the actuators (e.g. AllJoyn Smart Plug, IP Camera) connected to these gateways.
-------------------------------------------------------------------------------------	
+
 Reference Technique:
 -Android
 -Socket programming
@@ -11,22 +11,22 @@ Reference Technique:
 -Protocol design
 -P2P
 -AllJoyn framework
-------------------------------------------------------------------------------------	
+
 Appliance:
 Internet of Things
-------------------------------------------------------------------------------------	
+
 Role:
 -Project Manager
 -Architect
 -Developer
-------------------------------------------------------------------------------------
+
 Work:
 -Survey the interoperability issue in Internet of Things
 -Extract the requirements of interoperability issue in Internet of Things.
 -Design the System Architecture of Interoperation Application.(see in "Documents/Improvement" p5)
 -Design the Class Diagram of Interoperation Application.(see in "Design")
 -Implementation of Interoperation Application.(see in "InteroperationApp")
-------------------------------------------------------------------------------------
+
 
 Hint:
 -You can see the brief requirements in the "Documents/Evolution of InteroperationApp".It includes the evolution of requirements, design, and some problem issues. 
