@@ -44,7 +44,7 @@ I design a connection infrustructure which can:
 
 -Decouple the responsibility of data receiving and data handling.
 
--Easy to future extend for data protocal or data handler.
+-Easy to future extend for data protocols or data handler.
 
 -Reduce the responsibility of middleman between UI and data model.
 
