@@ -36,7 +36,7 @@ Hint:
 
 -There are some technial surveys and architecture designs in the "Documents".
 
-Special:
+Feature:
 -----
 I design a connection infrustructure which can:
 
