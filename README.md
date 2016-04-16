@@ -21,7 +21,7 @@ Reference Technique:
 -AllJoyn framework
 
 
-Appliance:
+Domain Application:
 ----
 Internet of Things
 
@@ -38,14 +38,14 @@ Hint:
 
 Feature:
 -----
-I design a connection infrustructure which can:
+I design a connection infrustructure with the following features:
 
--Reduce the resource usage of connection maintenance.
+-Reducing the resources usage of connection maintenance.
 
--Decouple the responsibility of data receiving and data handling.
+-Decoupling the responsibility of data received and data handled.
 
--Easy to future extend for data protocols or data handler.
+-Easy to extend data protocols and data handler.
 
--Reduce the responsibility of middleman between UI and data model.
+-Reducing the responsibility of middleman between UI and data model.
 
 	
